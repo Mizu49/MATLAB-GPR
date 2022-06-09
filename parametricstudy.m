@@ -1,4 +1,4 @@
-%% パラメトリックスタディ
+%% Parametric study of the inital design parameters
 close all
 clear
 
